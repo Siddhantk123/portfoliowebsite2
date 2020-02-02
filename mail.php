@@ -9,7 +9,7 @@ if(mail($to, $subject, $message, $header)){
 	echo "Mail send successfuly";
 }
 else{
-	echo "canno send mail";
+	echo "cannot send mail";
 }
 
 ?>
